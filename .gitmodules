@@ -1,0 +1,21 @@
+[submodule "Assets/ShaderToyRenderFeature"]
+	path = Assets/ShaderToyRenderFeature
+	url = git@lazyun:LazyunGame/ShaderToyRenderFeature.git
+[submodule "Assets/CustomPostProcessRenderFeature"]
+	path = Assets/CustomPostProcessRenderFeature
+	url = git@lazyun:LazyunGame/CustomPostProcessRenderFeature.git
+[submodule "Assets/URP_BlitRenderFeature"]
+	path = Assets/URP_BlitRenderFeature
+	url = https://github.com/Cyanilux/URP_BlitRenderFeature.git
+[submodule "Assets/FogRenderFeature"]
+	path = Assets/FogRenderFeature
+	url = git@lazyun:LazyunGame/FogRenderFeature.git
+[submodule "Assets/_RenderFeatures/CustomPostProcessRenderFeature"]
+	path = Assets/_RenderFeatures/CustomPostProcessRenderFeature
+	url = git@lazyun:LazyunGame/CustomPostProcessRenderFeature.git
+[submodule "Assets/_RenderFeatures/FogRenderFeature"]
+	path = Assets/_RenderFeatures/FogRenderFeature
+	url = git@lazyun:LazyunGame/FogRenderFeature.git
+[submodule "Assets/_RenderFeatures/ShaderToyRenderFeature"]
+	path = Assets/_RenderFeatures/ShaderToyRenderFeature
+	url = git@lazyun:LazyunGame/ShaderToyRenderFeature.git
