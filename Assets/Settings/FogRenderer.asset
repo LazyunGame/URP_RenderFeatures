@@ -71,11 +71,11 @@ MonoBehaviour:
   m_Name: NewDepthFogRenderFeature
   m_EditorClassIdentifier: 
   m_Active: 1
-  fogColor: {r: 0.9137255, g: 0.32265043, b: 0.29803917, a: 1}
-  fogDensity: 1
+  fogColor: {r: 0.2927193, g: 0.6886792, b: 0.25013348, a: 1}
+  fogDensity: 0.378
   enableFarFog: 0
-  fogStart: 0.027
-  fogEnd: 0.694
+  fogStart: 0.073
+  fogEnd: 0.461
   enableDeepFog: 1
   fogDeepStart: -0.34
-  fogDeepEnd: 1.44
+  fogDeepEnd: 0.87
